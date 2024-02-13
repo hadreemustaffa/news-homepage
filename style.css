@@ -145,6 +145,9 @@ nav ul li a:hover,
 .new-articles a:hover {
   color: var(--clr-primary);
 }
+.new-articles .text {
+  color: var(--clr-neutral-lt);
+}
 
 .featured-articles .rank {
   color: var(--clr-neutral-lt);
